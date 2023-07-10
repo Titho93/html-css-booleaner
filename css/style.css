@@ -3,6 +3,15 @@
   margin: 0;
 }
 
+h1{
+  font-size: 30px;
+}
+
+h5{
+  color: #616363;
+  margin-top: 5px;
+}
+
 /* header  */
 header{
   height: 180px;
@@ -19,5 +28,11 @@ header{
 }
 
 /* main  */
+.presentation{
+  padding: 20px;
+}
 
+.autor{
+  color: #4FA0FB;
+}
 /* footer  */
