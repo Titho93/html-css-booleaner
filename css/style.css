@@ -11,9 +11,17 @@ h1{
   font-size: 30px;
 }
 
+h4{
+  color: #616363;
+}
+
 h5{
   color: #616363;
   margin-top: 5px;
+}
+
+.underline{
+  background-color: yellow;
 }
 
 /* header  */
@@ -76,6 +84,25 @@ thead{
   background-color: #B0E5F2;
 }
 
-
-
 /* footer  */
+footer{
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.photo-monitor{
+  color: white;
+  font-size: 20px;
+  width: 300px;
+  height: 200px;
+  background-image: url('../img/monitor.jpg');
+}
+
+.photo-graph{
+  color: white;
+  font-size: 20px;
+  margin-top: 20px;
+  width: 300px;
+  height: 200px;
+  background-image: url('../img/graph.jpg');
+}
