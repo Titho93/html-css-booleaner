@@ -1,0 +1,111 @@
+/* generali */
+*{
+  margin: 0;
+}
+
+.container{
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+h1{
+  font-size: 30px;
+}
+
+h4{
+  color: #616363;
+}
+
+h5{
+  color: #616363;
+  margin-top: 5px;
+}
+
+.underline{
+  background-color: yellow;
+}
+
+/* header  */
+header{
+  height: 180px;
+  background-color: #4FA0FB;
+  background-image: url('img/pattern.png');
+  position: relative;
+}
+
+.logo{
+  width: 20%;
+  position: absolute;
+  bottom: 10px;
+  left: 20px;
+}
+
+/* main  */
+.presentation{
+  margin-top: 30px;
+}
+
+.autor{
+  color: #4FA0FB;
+}
+
+.foto{
+  margin-top: 10px;
+}
+
+.description{
+  font-size: 12px;
+}
+
+.focus{
+  margin-top: 20px;
+}
+
+.list{
+  margin-top: 30px;
+  margin-left: -25px;
+}
+
+table{
+  margin-top: 20px;
+  width: 100%;
+}
+
+thead{
+  background-color: #3DA9E5;
+  color: white;
+  text-align: auto;
+}
+
+.one{
+  background-color: #B0E5F2;
+}
+
+.three{
+  background-color: #B0E5F2;
+}
+
+/* footer  */
+footer{
+  text-align: center;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.photo-monitor{
+  color: white;
+  font-size: 20px;
+  width: 300px;
+  height: 200px;
+  background-image: url('../img/monitor.jpg');
+}
+
+.photo-graph{
+  color: white;
+  font-size: 20px;
+  margin-top: 20px;
+  width: 300px;
+  height: 200px;
+  background-image: url('../img/graph.jpg');
+}
