@@ -48,5 +48,14 @@ header{
   font-size: 12px;
 }
 
+.focus{
+  margin-top: 20px;
+}
+
+.list{
+  margin-top: 30px;
+  margin-left: -25px;
+}
+
 
 /* footer  */
