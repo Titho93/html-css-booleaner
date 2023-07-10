@@ -57,5 +57,25 @@ header{
   margin-left: -25px;
 }
 
+table{
+  margin-top: 20px;
+  width: 100%;
+}
+
+thead{
+  background-color: #3DA9E5;
+  color: white;
+  text-align: auto;
+}
+
+.one{
+  background-color: #B0E5F2;
+}
+
+.three{
+  background-color: #B0E5F2;
+}
+
+
 
 /* footer  */
