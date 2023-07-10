@@ -1,0 +1,23 @@
+/* generali */
+*{
+  margin: 0;
+}
+
+/* header  */
+header{
+  height: 180px;
+  background-color: #4FA0FB;
+  background-image: url('../img/pattern.png');
+  position: relative;
+}
+
+.logo{
+  width: 20%;
+  position: absolute;
+  bottom: 10px;
+  left: 20px;
+}
+
+/* main  */
+
+/* footer  */
